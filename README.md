@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
+
 React TODO App 📝
 
 Aplicativo de lista de tarefas (TODO) desenvolvido em React, para organizar tarefas pessoais, de trabalho e estudos de forma prática e eficiente.
@@ -39,4 +39,4 @@ Persistência de tarefas com localStorage ou backend
 Reorganização de tarefas com drag-and-drop
 
 Interface responsiva com TailwindCSS ou Material-UI
->>>>>>> 45a42f98d7488fe1b6e52dbf7991523f51c5ace0
+
